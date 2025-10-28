@@ -1,0 +1,20 @@
+| Command                   | Use                                                                   |
+| --------------------------| ----------------------------------------------------------------------|
+| pwd                       | Displays the current working directory.                                 |
+| ls                        | Lists files and directories in the current directory.                   |
+| ls -l                     | Lists files with detailed information (permissions, size, owner, etc.). |
+| ls -a                     | Lists all files including hidden files (those starting with .).         |
+| cd [directory]            | Changes the current directory.                                          |
+| cd ..                     | Moves one directory up.                                                 |
+| mkdir [directory_name]    | Creates a new directory.                                                |
+| rmdir [directory_name]    | Removes an empty directory.                                             |
+| cp [source] [destination] | Copies files or directories.                                            |
+| mv [source] [destination] | Moves or renames files or directories.                                  |
+| rm [file_name]            | Deletes a file.                                                         |
+| rm -r [directory_name]    | Deletes a directory and its contents recursively.                       |
+| touch [file_name]         | Creates an empty file or updates file timestamps.                       |
+| cat [file_name]           | Displays the contents of a file.                                        |
+| less [file_name]          | Views file content one page at a time.                                  |
+| head [file_name]          | Displays the first 10 lines of a file.                                  |
+| tail [file_name]          | Displays the last 10 lines of a file.                                   |
+| tail -f [logfile]         | Continuously monitors a log file for new entries.                       |
