@@ -18,3 +18,18 @@
 | head [file_name]          | Displays the first 10 lines of a file.                                  |
 | tail [file_name]          | Displays the last 10 lines of a file.                                   |
 | tail -f [logfile]         | Continuously monitors a log file for new entries.                       |
+| chmod                     | Change files/directories permission                                     |
+| cp                        | Change files or directories                                             |
+| chown                     | Change files or directories  ownership                                  |
+| top                       | Display the System Processes                                            |
+| ps                        | Display the Running Processes                                           |
+| kill                      | Terminate the Processes                                                 |
+| ping                      | Test the newtwork connectivity                                          |
+| sudo                      | Enables you to perform task that require administrative /root permission|
+
+
+
+
+
+
+
