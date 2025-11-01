@@ -1,5 +1,5 @@
-| Command                   | Use                                                                   |
-| --------------------------| ----------------------------------------------------------------------|
+| Command                   | Use                                                                     |
+| --------------------------| ------------------------------------------------------------------------|
 | pwd                       | Displays the current working directory.                                 |
 | ls                        | Lists files and directories in the current directory.                   |
 | ls -l                     | Lists files with detailed information (permissions, size, owner, etc.). |
